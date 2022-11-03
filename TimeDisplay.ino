@@ -5,8 +5,8 @@
 #include <stdlib.h>
 #include "esp_wpa2.h"   // wpa2 for connection to enterprise networks
 
-#define EAP_IDENTITY "zcabgzh@ucl.ac.uk"                
-#define EAP_PASSWORD "Jiemin76!"
+#define EAP_IDENTITY "*******" // Username               
+#define EAP_PASSWORD "*******" // Password
 
 const char* essid = "eduroam";
 
